@@ -1,4 +1,4 @@
-   https://komarev.com/ghpvc/?username=vthuan-dev
+![Profile views](https://komarev.com/ghpvc/?username=vthuan-dev)
 - 👋 Hi, I’m @vthuan-dev
 - 👀 I’m interested in codinggg, sometimes sleepinggggg
 - 🌱 I’m currently learning at Can Tho Universityyy
