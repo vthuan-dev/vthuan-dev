@@ -2,8 +2,7 @@
 - 👋 Hi, I’m @vthuan-dev
 - 👀 I’m interested in codinggg, sometimes sleepinggggg
 - 🌱 I’m currently learning at Can Tho Universityyy
-- 📫 How to reach me by connect my fb 
-
+- 📫 How to reach me by connect my fb : https://www.facebook.com/vthuannnn1
 
 
 <!---
