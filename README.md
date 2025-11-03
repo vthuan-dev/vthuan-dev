@@ -2,7 +2,7 @@
 - 👋 Hi, I’m NGUYEN VAN THUAN
 - 👀 I’m interested in codinggg, sometimes sleepinggggg
 
-- 📫 How to reach me by connect my fb : https://www.facebook.com/vthuannnn1
+
 
 
 <!---
